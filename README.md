@@ -16,3 +16,8 @@ note over browser:
 now find the Network tab on the list above the page and click on it.
 end note
 browser->server: form data will appear as new_note on the list opened.
+
+0.5: Single page app
+
+
+0.6: New note
