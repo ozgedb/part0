@@ -45,7 +45,7 @@ open the Network tab and clear out by clicking the clear console symbol
 end note
 
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
-server-->browser: [{ content: "HTML is easy", date: "2020-10-25" }, ...]
+server-->browser: [{ content: "new note note", date: "2020-10-25" }, ...]
 browser->server:  JavaScript code it fetched from the server
 
 note over browser:
