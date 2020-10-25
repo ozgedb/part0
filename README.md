@@ -21,6 +21,7 @@ browser->server: Form data is will appear as new_note on the list opened.
 
 
 0.5: Single page app
+
 browser->server: https://studies.cs.helsinki.fi/exampleapp/spa
 server-->browser: HTML-code
 browser->server: executes the JavaScript code 
